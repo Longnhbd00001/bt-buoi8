@@ -1,0 +1,30 @@
+.thongtinlienhe{
+    justify-content: space-around;
+    justify-items: center;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+    color: firebrick;
+}
+.box{
+    display: flex;
+}
+button{
+    margin-top: 1cm;
+    height: 1cm;
+        width: 3cm;
+        background-color: aqua;
+}
+.img{
+    margin-left: 10cm;
+    margin-top: 2cm;
+}
+.nguoidung{
+    background-color: antiquewhite;
+    
+}
+.botter{
+    background-color: khaki;
+}
+
